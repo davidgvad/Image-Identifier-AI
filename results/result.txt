@@ -1,0 +1,3 @@
+The image below demonstrates how the model identifies each photo and outputs the corresponding year. 
+Interestingly, the code skips a few years, jumping directly from 1915 to 1919.
+Despite this, it accurately identifies the year as 1919, bypassing 1916 as intended.
